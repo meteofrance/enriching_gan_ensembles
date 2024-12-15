@@ -1,0 +1,12 @@
+ipython
+numpy==1.26.1
+matplotlib==3.5.1
+scipy
+scikit-image==0.19.3
+pandas
+optuna
+properscoring
+pyproj
+CRPS
+tornado
+

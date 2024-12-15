@@ -1,0 +1,6 @@
+D_sched: 'None' # choices=['None', 'exp', 'linear']
+G_sched: 'None' # choices=['None', 'exp', 'linear']
+
+# if X_sched is None, lrX_gamma won't be evaluated
+lrD_gamma: 0.95
+lrG_gamma: 0.95
