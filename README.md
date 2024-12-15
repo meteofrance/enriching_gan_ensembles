@@ -8,6 +8,8 @@ Most of the core code for GAN training is taken as is from [Rosinality's stylega
 
 The related paper can be found here: ??
 
+An excerpt of the data can be found [here](https://zenodo.org/uploads/14441948), along with weights of a pretrained generator.
+
 Contributors : C. Brochet, G. Moldovan, L. Raynaud, B. Gandon, L. Poulain--Auzéau, J. Rabault, C. Regan, V.Sanchez.
 
 # Installing
